@@ -1,0 +1,4 @@
+# Slider with sub-slider
+ _A Pen created at CodePen.io. Original URL: [https://codepen.io/JW-Based/pen/JzyzqZ](https://codepen.io/JW-Based/pen/JzyzqZ).
+
+ So this is an experiment for a mobile ux strategy. We wanted to have information above the fold and to be easily accessible to users.  There are several sections to cycle through and each section has several subsections containing descriptive text.  So the subsections operate with a basic hide/show button that counts clicks and hides/shows the sections appropriately, the 'nth' click then resets the data, enabling the user to continue cycling through the information as they may. the buttons in the first block cycle out the entire div containing the section and subsection. eventually I'll refactor this to be more succinct but it works so there you go.

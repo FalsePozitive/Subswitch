@@ -1,0 +1,41 @@
+.holder {
+	width: 414px;
+	display: block;
+	margin: 0 auto;
+}
+.sliderm {
+	max-width: 100%;
+}
+.sliderm img {
+	max-width: 100%;
+	min-width:100%;
+}
+.ctrlback, .ctrlbackm {
+	color: white;
+	width:100%;
+		text-align:left;
+	padding:12% 0%;
+}
+.ctrlforth, .ctrlforthm {
+	color: white;
+	width:100%;
+	text-align:right;
+	padding:12% 0%;
+}
+.title {
+	color: white;
+	width:100%;
+	text-align:center;
+}
+.controller,.controllerm {
+	background: maroon;
+	padding: 10px;
+	display: grid;
+	grid-template-columns: 1fr 2fr 1fr;
+}
+.controller2 {
+	background: maroon;
+	padding: 10px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
